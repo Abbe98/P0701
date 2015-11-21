@@ -47,7 +47,6 @@ namespace P0701
                 // get maximum value from List<int> and output result
                 resultLabel.Text = intList.Max().ToString();
             }
-
         }
     }
 }
